@@ -15,13 +15,6 @@ Execute o seguinte comando para executar o script de criptografia e descriptogra
 python main.py
 ```
 
-## Detalhes da Implementação em main.py
-### Funções Principais
-
-- `xor_bytes(a, b)`: Realiza a operação XOR entre dois blocos de bytes.
-- `cifrar_cbc(texto, chave, iv)`: Cifra o texto usando o modo CBC.
-- `descriptografar_cbc(texto_cifrado, chave, iv)`: Descriptografa o texto cifrado usando o modo CBC.
-
 ## Funções de Criptografia e Descriptografia
 
 `Função xor_bytes(a, b)`: Realiza a operação XOR byte a byte entre dois blocos de bytes a e b.
