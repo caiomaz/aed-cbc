@@ -1,11 +1,12 @@
 # Ferramenta de Criptografia e Descriptografia CBC
 
 Este repositório contém uma implementação de criptografia e descriptografia usando o modo CBC (Cipher Block Chaining) com operações XOR. Este sistema permite cifrar e decifrar textos usando uma chave e um vetor de inicialização (IV) fornecidos pelo usuário ou valores padrão.
-Estrutura do Projeto
+
+## Estrutura do Projeto
 
 - **.gitignore**: Arquivo para especificar quais arquivos ou diretórios o Git deve ignorar.
 - **main.py**: Contém a implementação das funções de criptografia e descriptografia, além de uma interface de linha de comando para interação com o usuário.
-- **README.md**: Este arquivo, contendo informações sobre o projeto, incluindo uma visão geral da estrutura de diretórios, descrição dos arquivos e uma explicação detalhada do código contido em main.py.
+- **README.md**: Este arquivo contém informações sobre o projeto.
 
 ## Executar o Código
 
